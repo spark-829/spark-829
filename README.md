@@ -8,7 +8,7 @@ Portfolio: [spark-829.github.io/VicsonYaris_Portfolio](https://spark-829.github.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ndn-social-pipeline](https://github.com/spark-829/ndn-social-pipeline) | Daily ELT pipeline for a record label's public YouTube, TikTok and Instagram data. 3,041 posts tracked, 44 SQL scripts, 17 Edge Functions, 17 scheduled jobs, a 7-page Power BI report | Python, Supabase PostgreSQL, SQL, TypeScript, pg_cron, GitHub Actions, Power BI |
+| Social media ELT pipeline (code and report coming soon) | Daily ELT pipeline for a Philippine record label's public YouTube, TikTok and Instagram data. 3,041 posts tracked, 44 SQL scripts, 17 Edge Functions, 17 scheduled jobs, a 7-page Power BI report | Python, Supabase PostgreSQL, SQL, TypeScript, pg_cron, GitHub Actions, Power BI |
 | [VicsonYaris_Portfolio](https://github.com/spark-829/VicsonYaris_Portfolio) | Portfolio site with two case studies: a 4-page Power BI report on 99K Olist orders, and an Excel sales workbook with PivotTables and VBA | Power BI, DAX, Excel, VBA, Python, pandas, HTML, CSS, JavaScript |
 
 ## Toolkit
