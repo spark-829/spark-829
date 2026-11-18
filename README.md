@@ -9,14 +9,13 @@ Portfolio: [spark-829.github.io/VicsonYaris_Portfolio](https://spark-829.github.
 | Project | What it is | Stack |
 |---|---|---|
 | [ndn-social-pipeline](https://github.com/spark-829/ndn-social-pipeline) | Daily ELT pipeline for a record label's public YouTube, TikTok and Instagram data. 3,041 posts tracked, 44 SQL scripts, 17 Edge Functions, 17 scheduled jobs, a 7-page Power BI report | Python, Supabase PostgreSQL, SQL, TypeScript, pg_cron, GitHub Actions, Power BI |
-| [VicsonYaris_Portfolio](https://github.com/spark-829/VicsonYaris_Portfolio) | Portfolio site with two case studies: a 4-page Power BI report on 99K Olist orders, and an Excel sales workbook with PivotTables and VBA | Power BI, DAX, Excel, VBA, HTML, CSS, JavaScript |
-| Listings pipeline for a real-estate marketplace (private) | Daily snapshots of about 800 listings; SQL views flag new, removed and repriced listings | Python, PostgreSQL, Next.js, pytest |
+| [VicsonYaris_Portfolio](https://github.com/spark-829/VicsonYaris_Portfolio) | Portfolio site with two case studies: a 4-page Power BI report on 99K Olist orders, and an Excel sales workbook with PivotTables and VBA | Power BI, DAX, Excel, VBA, Python, pandas, HTML, CSS, JavaScript |
 
 ## Toolkit
 
-- **Analysis and BI:** Power BI (DAX, Power Query), Excel (VBA, pivot tables), Looker Studio
+- **Analysis and BI:** Power BI (DAX, Power Query), Tableau, Excel (VBA, pivot tables), Looker Studio
 - **Data and pipelines:** SQL (PostgreSQL), Supabase, pg_cron, REST APIs, OAuth 2.0, GitHub Actions
-- **Code:** Python, TypeScript, Next.js, Django, Firebase, MicroPython
+- **Code:** Python (pandas), TypeScript, Next.js, Django, Firebase, MicroPython
 - **Automation:** Power Automate, Power Apps, SharePoint
 
 Open to entry-level data analyst and BI roles.
